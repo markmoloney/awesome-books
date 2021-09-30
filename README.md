@@ -1,4 +1,4 @@
-# Beauteous Books
+# Books that make you think again
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ## A list of awesome books
