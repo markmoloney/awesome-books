@@ -1,4 +1,4 @@
-# Books that make you think again
+# Books That Make You Think Again
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ## A list of awesome books
